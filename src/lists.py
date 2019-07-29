@@ -52,6 +52,8 @@ class stop_words:
             "it's",
             "its",
             "itself",
+            'the',
+            'was',
             "they",
             "them",
             "their",
