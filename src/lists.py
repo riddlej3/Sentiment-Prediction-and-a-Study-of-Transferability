@@ -146,6 +146,8 @@ class stop_words:
             "y",
             "ma",
         ]
+        
+        # stopwords removed from stop_words list
         self.removed_sws = [
             "no",
             "nor",
@@ -302,7 +304,7 @@ class cols_new:
     def get_cols_new(self):
         return self.cols_new
 
-
+### Didn't end up using. BUGS in the noise list
 class noise:
     """
     retrieves list of noisy instances from training data
