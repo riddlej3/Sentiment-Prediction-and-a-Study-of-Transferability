@@ -28,14 +28,7 @@ Apply trained model to text based reviews and star scores of a variety of other 
 - Mean Product Scores: 		+/- 1 star accuracy: 79%		Accuracy: 41%
 - Hypothesis Test: : 			P-val: 0.0001					Null-Hypothesis: Rejected
 
-<img src="/home/ubuntu/Notebooks/capstone2/data/final_img.png"
-     style="float: left; margin-right: 10px;" />
-
-
-
-
-
-
+![]("/home/ubuntu/Notebooks/capstone2/data/final_img.png")
 
 
 
