@@ -28,6 +28,7 @@ Apply trained model to text based reviews and star scores of a variety of other 
 - Mean Product Scores: 		+/- 1 star accuracy: 79%		Accuracy: 41%
 - Hypothesis Test: : 			P-val: 0.0001					Null-Hypothesis: Rejected
 
+<img src='images/main.png'>
 
 ### Conclusion: 
 - Based on initial testing, it appears that there exists an identifiable mean accuracy difference across datasets, which is most apparent when comparing service category review data to product category reviews.
