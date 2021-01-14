@@ -37,7 +37,7 @@ Apply trained model to text based reviews and star scores of a variety of other 
 - Apply model to non-labeled data to predict reviews: Ex. Airbnb data that doesn’t provide review level scoring. Data Management and Integrity: Predict the probability of noisy data and auto-remove. Identify outlier customer experience. Compare own customer sentiment to competitors. 
 
 ### Predicting Airbnb Reviews in Portland:
-- When the model is applied to Airbnb reviews sourced from InsideAirbnb, the model performce extremely with approx. 88% accuracy, which is extremely high. This is of course because of how unbalanced the Airbnb reviews' sentiment scores seem to appear. This chart compares the predictions (dark skinny bars) to the reviews' listings' scores and almost perfectly in sentiment distribution. This is an example of how an accurate model can be used to generate new data that is assumed to be close in nature to the real, yet not accessible data. 
+- When the model is applied to Airbnb reviews sourced from InsideAirbnb, the model performes well with approx. 88% accuracy, which is very high. This is of course because of how unbalanced the Airbnb reviews' sentiment scores seem to appear. This chart compares the predictions (dark skinny bars) to the reviews' listings' scores and almost perfectly in sentiment distribution. This is an example of how an accurate model can be used to generate new data that is assumed to be close in nature to the real, yet not accessible data. 
 
 <img src='images/airbnb.png'>
 
